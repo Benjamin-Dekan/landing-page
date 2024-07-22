@@ -21,7 +21,7 @@ p {
   background-color: #1F2937;
   justify-content: center;
   flex-direction: column;
-  padding: 12px 200px;
+  padding: 60px 200px;
 }
 
 .links {
@@ -83,9 +83,11 @@ p {
 
 .subtext img {
   flex: 1;
-  width: 300px;
+  max-width: 350px;
   height: auto;
 }
+
+
 
 /*CSS for first content*/
 .first-content {
